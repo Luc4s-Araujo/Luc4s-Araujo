@@ -1,15 +1,17 @@
 # 👋 Olá, eu sou o Lucas
 
-Desenvolvedor Full Stack em constante evolução, com foco em backend Java e experiência em frontend moderno.  
-Entusiasta de tecnologia e games nas horas vagas.
+Desenvolvedor Full Stack em evolução contínua.
+Backend Java | Frontend moderno | Tech & games enthusiast.
 
 ## 💻 Skills
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"/>
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,bootstrap,figma,java,spring,mysql,docker"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,bootstrap,figma,java,spring,mysql,docker,git"/>
 </div>
 
-## 📫 Contato
+### 📫 Contato
 
 <div align="left">
   <a href="mailto:luc4s_araujo.s@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
