@@ -5,11 +5,11 @@ Backend Java | Frontend moderno | Tech & games enthusiast.
 
 ## 💻 Skills
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"/>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,bootstrap,figma,java,spring,mysql,docker,git"/>
 </div>
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"/>
 
 ### 📫 Contato
 
